@@ -1,5 +1,6 @@
 ### AWS Lambda Usage
 
+**Handler**: `dist/index.handler`
 
 gets error as if:
 
